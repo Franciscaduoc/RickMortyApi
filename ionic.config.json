@@ -1,0 +1,7 @@
+{
+  "name": "rickAndMortiApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
